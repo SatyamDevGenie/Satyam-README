@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsawant54&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsawant54" /> </p>
 
-- 🔭 I’m currently working on *Freelancing*
+- 🔭 I’m currently working on *Freelancing Projects*
 
 - 🌱 I’m currently learning *MERN Stack*
 

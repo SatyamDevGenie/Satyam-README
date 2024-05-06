@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Satyam Sawant - Web Developer</title>
+<!--     <title>Satyam Sawant - Web Developer</title> -->
 </head>
 <body>
 

@@ -1,50 +1,91 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Satyam Sawant - Web Developer</title> -->
-</head>
-<body>
+<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s');
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            color: white;
+            margin: 0;
+            padding: 0;">
+    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
+<h1 align="center">Hi 👋, Satyam Sawant</h1>
+<h3 align="center">Mern Stack Freelancer Developer from India</h3>
+<div align=center>
+ <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SATYAM+SAWANT...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Satyam Sawant</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsawant54&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsawant54" /> </p>
+- 🔭 I’m currently working on [Freelancing Projects]
 
-<ul>
-    <li>🔭 I’m currently working on <em>Freelancing Projects</em></li>
-    <li>🌱 I’m currently learning <em>MERN Stack</em></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://satyamsawantportfolio.netlify.app/" target="_blank">https://satyamsawantportfolio.netlify.app/</a></li>
-    <li>💬 Ask me about <em>React, JavaScript NodeJs</em></li>
-    <li>📫 How to reach me <a href="mailto:satyamsawant54@gmail.com">satyamsawant54@gmail.com</a></li>
-    <li>⚡ Fun fact: I Like playing Cricket, VK18</li>
-</ul>
+- 🌱 I’m currently learning **Mern Stack and Socket IO**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/satyam-sawant-a257802a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+- 👨‍💻 All of my projects are available at [Github](github.com/satyamsawant54)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</p>
+- 💬 Ask me about **Javascript, Reactjs, Nodejs, Redux, Full Stack Web Development**.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsawant54&show_icons=true&locale=en&layout=compact" alt="satyamsawant54" /></p>
+- 📫 How to reach me **satyamsawant54@gmail.com**
 
-</body>
-</html>
+- 📄 Know about my Projects [Resume](file:///C:/Users/satyam/Downloads/Satyam_CV.pdf)
+
+- ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
+
+- 📄 Know about my Profile [Portfolio](https://satyamsubhashsawant.netlify.app/)
+
+</br>
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/satyam-sawant-a257802a7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/satyam_Dev10)
+</br>
+
+<h2 align="left"> 📌 Tech Stack:</h2>
+</br>
+<div display="flex">
+<h2 align="left"> ⚡ Languages and Libraries:</h2>
+<img src = "https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src = "https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src = "https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+</div>
+<br>
+<div display="flex">
+  <h3> 🖥️ FrontEnd: </h3>    
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+ <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
+ <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+ <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+ <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+</div>
+</br>
+ <div ><h3> 👾 BackEnd: </h3> 
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+   <img src="https://img.shields.io/badge/Express.js-%23323330?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
+   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
+   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
+   +
+ </div>
+</br>
+<div ><h3> 👨‍💻 Databases: </h3> 
+   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
+ </div>
+ </br>
+   <div ><h3> ⚓️ Tools: </h3> 
+   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src = "https://img.shields.io/badge/Netlify-%23150458.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt = "netlify"/>
+   <img src = "https://img.shields.io/badge/Vercel-%23150458.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black" align="center" alt = "netlify"/>
+ </div>
+ </br>
+ </br>
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangkanade20&show_icons=true&locale=en&layout=compact" alt="vedangkanade20" /></p>
+
+<p><img src ="https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=shades-of-purple&hide_border=false"><br/> </p>

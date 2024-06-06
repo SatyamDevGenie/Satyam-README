@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Mern Stack and Socket IO**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/satyamsawant54)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/satyamsawant54/Satyam-Readme/blob/main/README.md)
 
 - 💬 Ask me about **Javascript, Reactjs, Nodejs, Redux, Full Stack Web Development**.
 

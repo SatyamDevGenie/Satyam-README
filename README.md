@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
 
-- 📄 Know about my Profile [Portfolio](https://satyamsubhashsawant.netlify.app/)
+- 📄 Know about my Profile [Portfolio](https://ss-personal-portfolio.netlify.app/)
 
 </br>
 

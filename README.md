@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **satyamsawant54@gmail.com**
 
-- 📄 Know about my Projects [Resume](file:///C:/Users/satyam/Downloads/Satyam_CV.pdf)
+- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1T1B2yO11Z3r1Dauf5IskSkYKGhGz1DQ0/view)
 
 - ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
 

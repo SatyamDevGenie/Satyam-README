@@ -14,7 +14,7 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on [Freelancing Projects]
+- 🔭 I’m currently working on Socket IO
 
 - 🌱 I’m currently learning **Mern Stack and Socket IO**
 

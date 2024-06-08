@@ -14,9 +14,9 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on Socket IO
+- 🔭 I’m currently working on Socket IO 
 
-- 🌱 I’m currently learning **Mern Stack and Socket IO**
+- 🌱 I’m currently learning **Mern Stack and Freelancing**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/satyamsawant54/Satyam-Readme/blob/main/README.md)
 

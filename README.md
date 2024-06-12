@@ -37,8 +37,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/satyam-sawant-a257802a7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/satyam_Dev10)
 </br>
 
-<h2 align="left"> 📌 Tech Stack:</h2>
-</br>
 <div display="flex">
 <h2 align="left"> ⚡ Languages and Libraries:</h2>
 

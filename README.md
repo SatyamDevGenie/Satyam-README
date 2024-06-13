@@ -1,92 +1,30 @@
-<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn5lAg9XJZu28A9Mhoe67yq2lIbygA9hCvmRt7ss5xw&s');
-            background-size: cover;
-            background-position: center;
-            font-family: Arial, sans-serif;
-            color: white;
-            margin: 0;
-            padding: 0;">
-    <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
-<h1 align="center">Hi 👋, Satyam Sawant</h1>
-<h3 align="center">Mern Stack Freelancer Developer from India</h3>
-<div align=center>
- <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SATYAM+SAWANT...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
-</div>
+<h1 align="center">Hi 👋, I'm Aftab Mulani</h1>
+<h3 align="center">A passionate Full-stack MERN developer from India</h3>
 
-<img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
-- 🔭 I’m currently working on Socket IO 
-
-- 🌱 I’m currently learning **Mern Stack and Freelancing**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/satyamsawant54/Satyam-Readme/blob/main/README.md)
-
-- 💬 Ask me about **Javascript, Reactjs, Nodejs, Redux, Full Stack Web Development**.
-
-- 📫 How to reach me **satyamsawant54@gmail.com**
-
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1T1B2yO11Z3r1Dauf5IskSkYKGhGz1DQ0/view)
-
-- ⚡ Fun fact **I am Funny, I guess(My humour is dead)**
-
-- 📄 Know about my Profile [Portfolio](https://ss-personal-portfolio.netlify.app/)
-
-</br>
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/satyam-sawant-a257802a7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/satyam_Dev10)
-</br>
-
-<div display="flex">
-<h2 align="left"> ⚡ Languages and Libraries:</h2>
-
-<img src = "https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+# 💫 About Me:
+🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 SDT Intern @ Unico Connect<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>⚡ Fun fact I Want To Hack Nasa With HTML<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>⚡ For Fun HipHop , Code ,Travel
 
 
-</div>
-<br>
-<div display="flex">
-  <h3> 🖥️ FrontEnd: </h3>    
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
- <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
- <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
- <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
- <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
- <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/><br>
-<img src="https://img.shields.io/badge/Boostrap-%23000000.svg?style=for-the-badge&logo=Bootstrap CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/JQuery-%23000000.svg?style=for-the-badge&logo=JQuery&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-            <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-</div>
- <div ><h3> 👾 BackEnd: </h3> 
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-   <img src="https://img.shields.io/badge/Express.js-%23323330?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
-   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
-   +
- </div>
-</br>
-<div ><h3> 👨‍💻 Databases: </h3> 
-   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
-  <img src="https://img.shields.io/badge/Sql-%2300f.svg?style=for-the-badge&logo=Sql&logoColor=white&color=black">
- </div>
- </br>
-   <div ><h3> ⚓️ Tools: </h3> 
-   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7&color=red" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src = "https://img.shields.io/badge/Netlify-%23150458.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt = "netlify"/>
-   <img src = "https://img.shields.io/badge/Vercel-%23150458.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black" align="center" alt = "netlify"/>
- </div>
- </br>
- </br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aftab0012&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aftab0012&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0012&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedangkanade20&show_icons=true&locale=en&layout=compact" alt="vedangkanade20" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aftab0012&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p><img src ="https://github-readme-streak-stats.herokuapp.com/?user=VedangKanade20&theme=shades-of-purple&hide_border=false"><br/> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aftab0012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aftab0012&icon=3&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

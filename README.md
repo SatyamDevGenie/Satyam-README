@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aftab Mulani</h1>
-<h3 align="center">A passionate Full-stack MERN developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satyam Sawant</h1>
+<h3 align="center">A passionate Full-Stack MERN developer from India</h3>
 
 # 💫 About Me:
-🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 SDT Intern @ Unico Connect<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>⚡ Fun fact I Want To Hack Nasa With HTML<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>⚡ For Fun HipHop , Code ,Travel
+🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 Completed 5 months of Full Stack Developer Training @ RST FORUM<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>⚡ Fun fact I Want To Hack Nasa With HTML<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>⚡ For Fun HipHop , Code ,Travel
 
 
 # 💻 Tech Stack:

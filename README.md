@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack MERN developer from India</h3>
 
 # 💫 About Me:
-🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 Completed 5 months of Full Stack Developer Training @ RST Forum<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>⚡ For Fun Karate , Code , Travel<br><br> 👨‍💻 All of my projects are available at [Github](https://github.com/SatyamDevGenie/Satyam-README/edit/main/README.md)
+🥋 I'm very Passionate For Programming and Developement .I'm always ready to learn new things with Effective ideas.<br><br>💼 Completed 5 months of Full Stack Developer Training @ RST Forum<br><br>👨‍💻 All of my projects are available at Here<br><br>💬 Ask me about React, JavaScript, Full Stack<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>⚡ For Fun Karate , Code , Travel<br><br> 👨‍💻 All of my projects are available at [Github](https://ss-dev-portfolio.netlify.app/#projects)
 
 
 <br><br>

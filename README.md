@@ -1,4 +1,4 @@
-<h1 align="center" font-weight="bold">Hi 👋, I'm Satyam Sawant</h1>
+<h1 align="center" >Hi 👋, I'm Satyam Sawant</h1>
 <h3 align="center">A passionate Full-Stack MERN developer from India</h3><br><br>
 
 # 💫 About Me:

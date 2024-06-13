@@ -11,7 +11,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://i.pinimg.com/originals/3f/17/91/3f179161ea6ebe36f70b2392d4157d45.jpg/api?type=horizontal&theme=dark)
 
 
 ### 😂 Random Dev Meme
